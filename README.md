@@ -9,7 +9,7 @@ This is example is to show different parts of the git repoistory and various com
 ## Purpose
 
 as stated above, the main purpose is to provide simple examples for git training demos
-
+make changes to abvove sentence 
 
 ##Deployment
 
