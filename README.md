@@ -15,6 +15,7 @@ make changes to abvove sentence
 
 
 ##How to contribute
+please fork this repoistory and then issue pull request for review.
 
 ##copyright
 2014 Git. Training
