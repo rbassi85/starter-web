@@ -16,3 +16,6 @@ make changes to abvove sentence
 
 ##How to contribute
 
+##copyright
+2014 Git. Training
+
