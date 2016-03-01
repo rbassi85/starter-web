@@ -18,6 +18,7 @@ make changes to abvove sentence
 
 
 ##How to contribute
+please fork this repoistory and then issue pull request for review.
 
 PLEASE FORK THIS REPOSITORY AND THEN ISSUE PULL REQUESTS FOR REVIEW.
 
