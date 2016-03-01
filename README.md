@@ -10,11 +10,16 @@ This is example is to show different parts of the git repoistory and various com
 
 as stated above, the main purpose is to provide simple examples for git training demos
 make changes to abvove sentence 
+make changes to abvove sentence 
 
 ##Deployment
 
 
+
+
 ##How to contribute
+
+PLEASE FORK THIS REPOSITORY AND THEN ISSUE PULL REQUESTS FOR REVIEW.
 
 ##copyright
 2014 Git. Training
